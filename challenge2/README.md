@@ -1,4 +1,4 @@
-# Challenge 1
+# Challenge 2
 Este proyecto nos permite levantar una maquina virtual centos en GCP usando terraform para luego instalar Jenkins 
 usando Ansible
 

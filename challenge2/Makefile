@@ -2,9 +2,6 @@ MYPROJECT=challenge-project-291102
 JSON_CREDENTIAL=sa-credentials.json
 REGION=us-central1
 ZONE=us-central1-a
-TAG=latest
-BIN_GCLOUD=gcloud
-CLUSTER_NAME=my-gke-cluster
 PRIVATE_KEY=key
 VM_USERNAME=centosjenkins
 
