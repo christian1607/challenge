@@ -8,7 +8,7 @@ usando Ansible
 
 ### Ejecución
 
-Para la ejecucion es obligatorio que se pase como argumentos el nombre del proyecto y el credential.json
+Para la ejecucion es obligatorio que se pase como argumentos el nombre del proyecto (`MYPROJECT`) y el credential.json (`JSON_CREDENTIAL`)
 
 ```sh
 make [TARGET] [ARGS|OPTIONAL]
