@@ -6,6 +6,9 @@ Este proyecto nos permite levantar un cluster k8s zonal sobre GKE  usando terraf
 - La credenciales en formato json del service account con los permisos necesarios.
 
 ### Ejecución
+
+Para la ejecucion es obligatorio que se pase como argumentos el nombre del proyecto y el credential.json
+
 ```sh
 make [TARGET] [ARGS|OPTIONAL]
 ```
